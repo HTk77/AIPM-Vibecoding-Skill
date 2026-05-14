@@ -31,8 +31,6 @@
   100 多个能直接跑起来的 Agent / RAG / MCP 模板,找参考实现最快的地方。
 - [kaushikb11/awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents)
   Agent 框架的横向对比。选型时候用。
-- [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps)
-  真要上生产的时候再翻。日常用不到。
 
 ## Vibe Coding 周边
 
@@ -42,5 +40,18 @@
   Claude Code 周边生态(GUI / plugin / 工作流增强工具)。
 - [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents)
   Aider、Codex、Gemini CLI 这些命令行 Agent 的对比目录。
+
+## Skill 生态
+
+我自己也在做 Skill 库,所以这一类盯得最紧。
+
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+  Anthropic、Vercel、Stripe、Hugging Face 这些团队官方放出的 Skill 集合,1000+ 条,新东西出得快,常翻。
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+  268+ 条,做的是"一条 skill 跨多 agent 复用"的角度 —— Codex / Cursor / Gemini CLI / Claude Code 都能跑。
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills)
-  看 Skill 这个抽象在生态里铺开成什么样,顺便观察其他作者的命名 / 触发词写法。
+  更通用的 LLM Skill 视角,不限 Claude。看 Skill 这个抽象在不同 agent 里怎么落。
+- [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)
+  Claude Code 全家桶 —— skill、agent、command、hook、plugin、MCP config 都收齐。当索引用。
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+  围绕完整 SDLC 流水线组织的 skill 集合(tech-lead / qa / security / devops 子 agent 编排)。跟我自己做事的方式有共鸣。
