@@ -146,6 +146,46 @@ cd .. && rm -rf temp
 
 ---
 
+## 📚 推荐资源
+
+> PM 同行可能用得上的优质仓库 —— 业内被反复验证的 awesome list 与官方资料,持续筛选迭代。
+
+### 🎯 AI 产品经理方法论
+
+| Repo | 一句话价值 |
+|------|----------|
+| [dend/awesome-product-management](https://github.com/dend/awesome-product-management) | 业界最权威的 PM 资源精选 awesome list |
+| [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | 47 个可直接装进 Claude Code 的 PM Skill 包 |
+| [deanpeters/product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) | 50+ PM 实战用的 ChatGPT / Claude / Gemini prompt 模板 |
+| [Shubhamsaboo](https://github.com/Shubhamsaboo) | Google Cloud Senior AI PM 个人主页,AI Agent 教程产出者 |
+
+### 🧠 LLM & Prompt 工程基础
+
+| Repo | 一句话价值 |
+|------|----------|
+| [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | LLM 领域最全资源汇总(论文 / 框架 / 模型 / 课程) |
+| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Prompt / Context Engineering 黄金教程,66k+ stars |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Anthropic 官方 Claude 用法 cookbook(分类 / RAG / 工具使用 / 子 Agent) |
+
+### 🤖 AI 应用案例 & Agent 框架
+
+| Repo | 一句话价值 |
+|------|----------|
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ 可直接 run 的 Agent / RAG / MCP / Voice 模板,105k+ stars |
+| [kaushikb11/awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) | LLM Agent 框架精选(含 CrewAI 等 50k+ 星项目) |
+| [InftyAI/Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) | 生产级 LLMOps 工具链精选 |
+
+### ⚡ Vibe Coding 工具链 & Skill 生态
+
+| Repo | 一句话价值 |
+|------|----------|
+| [taskade/awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) | Vibe Coding 完整指南(工具 / 框架 / 最佳实践) |
+| [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) | Claude Code 工具 / IDE / 框架精选 |
+| [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) | 终端原生 AI 编程代理目录(Aider / Goose / Codex / Gemini CLI) |
+| [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) | LLM Skill 精选(Claude Code / Codex / Gemini CLI 通用) |
+
+---
+
 ## 📝 License
 
 [MIT](./LICENSE) © 2026 赫庭 (HTk77)
